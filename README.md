@@ -2,12 +2,3 @@
 
 
 
-
-
-
-<a href="https://github.com/gw120/WhatsApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gw120&repo=WhatsApp&title_color=1d1f21f&text_color=1d1f21&icon_color=1d1f21&bg_color=ffffff" />
-</a>
-<a href="https://github.com/gw120/todoist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gw120&repo=todoist&title_color=1d1f21f&text_color=1d1f21&icon_color=1d1f21&bg_color=ffffff" />
-</a>
